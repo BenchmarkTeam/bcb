@@ -1,0 +1,1 @@
+{"parent": "block/dirt", "children": {"solid": {"parent": "block/dirt", "render_type": "minecraft:solid"}, "translucent": {"parent": "minecraft:block/cube_all", "render_type": "minecraft:translucent", "textures": {"all": "bcb:block/layer_5"}}}, "item_render_order": ["solid", "translucent"], "loader": "forge:composite"}
